@@ -2,7 +2,16 @@ body {
 	background-color: lightblue;
   }
 
-
+#planetname {
+	font-family: "Young Serif", Times, serif;
+	font-size: 36px;
+  }
+  
+#planetimage {
+	height: 200px;
+	width: 200px;
+	
+  }
 
 td, th {
 	border: 1px solid;
