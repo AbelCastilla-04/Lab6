@@ -1,4 +1,4 @@
-body {
+html {
 	background-image: linear-gradient(lightblue, white);;
   }
 
@@ -34,4 +34,5 @@ tr td {
 
 #planets td {
 	font-size: 20px;
+	padding: 50px;
   }
