@@ -23,7 +23,7 @@ tr {
     padding-left: 80px;
   }
 
-tr th {
+tr, th {
 	font-family: "Young Serif", Times, serif;
 	font-size: 40px;
   }
@@ -33,7 +33,7 @@ img {
 	height: 350px;
   }
 
-tr td {
+tr, td {
 	border-style: solid;
 	border-color: navy;
 }
