@@ -11,7 +11,7 @@ tr th {
 	font-size: 40px;
   }
   
-tr td {
+tr td.b {
 	width: 200px;
 	height: 200px;
   }
