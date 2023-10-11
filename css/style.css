@@ -4,7 +4,7 @@ body {
   
 h1 {
 	font-family: Times;
-}
+  }
 
 table {
 	border-collapse: collapse;
@@ -36,4 +36,8 @@ img {
 tr, td {
 	border-style: solid;
 	border-color: navy;
-}
+  }
+
+td {
+	height: 50px;
+  }
