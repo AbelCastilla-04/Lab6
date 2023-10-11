@@ -9,6 +9,13 @@ table {
 td {
 	text-align: center;
   }
+  
+tr {
+	padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+  }
 
 tr th {
 	font-family: "Young Serif", Times, serif;
