@@ -1,6 +1,10 @@
 body {
 	background-image: linear-gradient(lightblue, white);;
   }
+  
+h1 {
+	font-family: Times;
+}
 
 table {
 	border-collapse: collapse;
@@ -13,10 +17,10 @@ td {
   }
   
 tr {
-	margin-top: 80px;
-    margin-bottom: 80px;
-    margin-right: 80px;
-    margin-left: 80px;
+	padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 80px;
+    padding-left: 80px;
   }
 
 tr th {
