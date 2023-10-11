@@ -11,10 +11,10 @@ td {
   }
   
 tr {
-	padding-top: 50px;
-    padding-right: 50px;
-    padding-bottom: 50px;
-    padding-left: 50px;
+	margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 80px;
+    margin-left: 80px;
   }
 
 tr th {
