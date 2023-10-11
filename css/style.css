@@ -6,12 +6,12 @@ table {
 	border-collapse: collapse;
   }
 
-#planetname {
+tr th {
 	font-family: "Young Serif", Times, serif;
-	font-size: 36px;
+	font-size: 40px;
   }
   
-div {
+tr td {
 	width: 200px;
 	height: 200px;
   }
