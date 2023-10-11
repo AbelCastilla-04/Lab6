@@ -13,7 +13,7 @@ table {
 	font-size: 36px;
   }
   
-#planetimage td.b {
+#planetimage tr {
 	height: 200px;
 	width: 200px;
   }
