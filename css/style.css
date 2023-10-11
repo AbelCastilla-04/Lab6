@@ -2,14 +2,19 @@ body {
 	background-color: lightblue;
   }
 
+table {
+	border-collapse: collapse;
+  }
+  
+  
+
 #planetname {
 	font-family: "Young Serif", Times, serif;
 	font-size: 36px;
   }
   
-#planetimage td {
+#planetimage td a {
 	height: 200px;
 	width: 200px;
-	
   }
 
