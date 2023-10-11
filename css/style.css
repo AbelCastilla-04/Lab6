@@ -10,7 +10,7 @@ td {
 	text-align: center;
   }
   
-tr {
+#planets tr {
 	margin-top: 80px;
     margin-bottom: 80px;
     margin-right: 80px;
@@ -28,8 +28,10 @@ img {
   }
 
 tr td {
-	font-size: 20px;
 	border-style: solid;
-	 border-color: navy;
+	border-color: navy;
 }
 
+#planets td {
+	font-size: 20px;
+  }
